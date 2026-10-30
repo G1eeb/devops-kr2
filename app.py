@@ -1,3 +1,4 @@
+# KR2: Круцяк
 import os
 import socket
 
